@@ -9,3 +9,7 @@ Features
 4.after completion mark as Done
 
 
+Requirements
+1.tkinter (usually comes pre-installed with Python)
+2.sqlite3 (also included by default in Python)
+
